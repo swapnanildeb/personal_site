@@ -1,56 +1,35 @@
 {
   "main": {
     "name":"Swapnanil Deb",
+    "nickname": "Swap",
     "occupation":"Student",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "swapnanildeb3@gmail.com",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Iselin",
+      "state":"New Jersey",
+      "zip": "08830"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.swap.wiki",
+    "resumedownload":"https://drive.google.com/file/d/1WtK5GXIbZNoQaBljQ15ksXNuzQzSMT-s/view?usp=sharing``",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/swapnanil.deb.3/",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/swapnanil-d-2b3aa712b/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/swapnanildeb",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -58,16 +37,10 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Northwestern University",
+        "degree":"Bachelors of Arts in Linguistics and Computer Science",
+        "graduated":"June 2021",
+        "description":"Relevant Coursework: Data Structures, Systems, Intro to Artificial Intelligence, Natural Language Processing, Conversational Interfaces"
       }
     ],
     "work":[
