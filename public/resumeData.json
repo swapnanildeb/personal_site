@@ -3,9 +3,9 @@
     "name":"Swapnanil Deb",
     "nickname": "Swap",
     "occupation":"Student",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"I'm currently a Senior at Northwestern University interested in Computational Linguistics and Blockchain Technologies.",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I'm currently a Senior at Northwestern University interested in Computational Linguistics and Blockchain Technologies. I have 4 years of professional experience building enterprise level web applications as well as event promotional material. I have also spent the last 3 years assisting a Linguistics laboratory and am currently writing my honors thesis in Computational Linguistics.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "swapnanildeb3@gmail.com",
     "address":{
@@ -60,7 +60,7 @@
         "company":"Northwestern University Prosody & Speech Dynamics Laboratory",
         "title":"Research Assistant",
         "years":"October 2018 - Present",
-        "description":"Designed and ran experiments to test effects of semantic predictability on speech accents (2018);  Utilized PsychoPy and Praat to detect trends in stress syllables across multiple subjects (2018-Present);  Developed Honors Thesis based on using pre-existing prosodic cues to form a maximally efficient training model for Tobi label detection (present)"
+        "description":"Designed and ran experiments to test effects of semantic predictability on speech accents (2018);  Utilized PsychoPy and Praat to detect trends in stress syllables across multiple subjects (2018-Present);  Developed Honors Thesis based on using pre-existing prosodic cues to form a maximally efficient training model for Tobi label detection (present);  Received the Abraham Demoz prize awarded for outstanding work in undergraduate linguistics relating to my thesis project as well as undergraduate course work and work as a research assistant. (2020)"
       },
       {
         "company":"Mayfest Productions",
@@ -110,7 +110,7 @@
         "title":"Dillo Day",
         "category":"The Official Dillo Day Music Festival Website",
         "image":"dillo_day.PNG",
-        "url":"https://www.dilloday.com"
+        "url":"http://www.dilloday.com"
       },
       {
         "title":"Mayfest Productions Website ",
