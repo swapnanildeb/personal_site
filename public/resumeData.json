@@ -28,7 +28,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/swapnanildeb",
+        "url":"https://www.github.com/swapnanildeb",
         "className":"fa fa-github"
       }
     ]
@@ -91,8 +91,8 @@
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"C++",
+        "level":"70%"
       },
       {
         "name":"Praat",
